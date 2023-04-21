@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content-container {
+    max-width: 900px;
+    height: 100%;
+    border: 1px solid crimson;
+}
+.title {
+}
+.button {
+}
+.btn__prev {
+}
+.column__first {
+}
+.circle {
+}
+.column__title {
+}
+.line {
+}
+.name-of-product {
+}
+.price-container {
+}
+.price-text {
+}
+.btn__buy {
+}
+.column__second {
+}
+.column-second__price-line-through {
+}
+.column__third {
+}
+.column__fourth {
+}
+.btn__next {
+}
